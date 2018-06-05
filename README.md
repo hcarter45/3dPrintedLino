@@ -19,7 +19,7 @@ Save this image as an svg file.
 Repeat this process of isolating each color until you have every color in your image isolated.
 <br>
 <img width="20%" src="./black.svg"></img><img width="20%" src="./brown.svg"></img><img width="25%" src="./brownRed.svg"></img>
-<img width="20%" src="./tan.svg"></img> <br.
+<img width="20%" src="./tan.svg"></img> <br>
 
 <h4>I chose to use fusion360 as my cad software to edit the .svg files to make them ready to print on the 3d printer, but any other cad program should work. (Fusion360 has a free student license, and it works on both PCs and Macs.)</h4>
 
