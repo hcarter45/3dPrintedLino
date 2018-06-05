@@ -13,7 +13,7 @@ Choose the magic select tool. I recommend that you do not crop out the borders a
 Pick a color you want to isolate first. Using the magic select tool add all of the chosen color and the border, but remove every other color. The tool gets smarter and becomes better at selecting the desired colors overtime, but expect to spend several minutes. Click done to end the magic select tool. Drag the selected image away from the unselected image using the drag tool that appears. Cut the image you selected, that isolated only one color and then click menu -> new to create a new portrait. Do not save the inital image that you downloaded because you are going to need to isolate various other layers and you want the base image to do so. 
 
 With the isolated image, crop out the background white if it appears.<br>
-<img width="50%" src="https://github.com/hcarter45/3dPrintedLino/blob/master/black%20Selected.PNG?raw=true"></img><br>
+<img width="50%" src="./black Selected.png"></img><br>
 Save this image as an svg file.
 
 Repeat this process of isolating each color until you have every color in your image isolated.
