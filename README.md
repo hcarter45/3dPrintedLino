@@ -27,7 +27,7 @@ Right click on the base component and create a new component, activate it, and n
 <img width="50%" src="./newComponent.png"></img><img width="50%" src="activateComponent"></img><br>
                                                                                        
 Open up the .svg file in your cad software. Highlight the entire sketch and click extrude. Extrude the sketch up 6mm.<br>
-<img width="50%" src="./highlightSketch.png"</img><img width="50%" src="./sideDepth.png"></img><br>
+<img width="50%" src="./highlightSketch.png"></img><img width="50%" src="./sideDepth.png"></img><br>
                                                                                         
 Repeat creating/naming/activating a new component, highlighting the sketch and then extruding it to 6mm until all of the isolated colors have been extruded.
 
